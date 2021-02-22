@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/cleysonsilvame/moveit/commits/master">
+  <a href="https://github.com/cleysonsilvame/moveit/commits/main">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/cleysonsilvame/moveit.svg">
   </a>
 
@@ -20,7 +20,6 @@
 
   <img alt="GitHub" src="https://img.shields.io/github/license/cleysonsilvame/moveit.svg">
 </p>
-
 
 <!-- <p float="center">
   <img alt="App Moveit" src=".github/iframe-notebook.png" width="75%" >
