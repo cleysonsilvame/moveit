@@ -18,7 +18,7 @@
     <img alt="Repository issues" src="https://img.shields.io/github/issues/cleysonsilvame/moveit.svg">
   </a>
 
-  <img alt="GitHub" src="https://img.shields.io/github/license/cleysonsilvame/move.svg">
+  <img alt="GitHub" src="https://img.shields.io/github/license/cleysonsilvame/moveit.svg">
 </p>
 
 <!-- <p float="center">
