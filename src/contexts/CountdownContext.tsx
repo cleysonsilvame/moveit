@@ -19,7 +19,7 @@ interface CountdownProviderProps {
   children: ReactNode;
 }
 
-const CountdownConext = createContext({} as CountdownConextData);
+export const CountdownConext = createContext({} as CountdownConextData);
 
 let coutdownTimeout: NodeJS.Timeout;
 
@@ -41,6 +41,7 @@ export function CountdownProvider({ children }: CountdownProviderProps) {
     clearTimeout(coutdownTimeout);
     setIsActive(false);
     setTime(0.1 * 60);
+    setHasFinished(false);
   }
 
   useEffect(() => {
