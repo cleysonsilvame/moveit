@@ -23,6 +23,12 @@
   background: var(--green);
 }
 
+@media (max-height: 700px) {
+  .experienceBar {
+    margin-bottom: 4rem;
+  }
+}
+
 span.currentExperience {
   position: absolute;
   top: 12px;
